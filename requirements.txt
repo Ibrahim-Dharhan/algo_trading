@@ -1,0 +1,16 @@
+numpy
+scipy
+tqdm
+docopt
+nltk
+torchvision
+matplotlib
+torch
+transformers
+datasets
+evaluate
+jupyter
+sentencepiece
+lxml==5.0.0
+sacrebleu
+tensorboard
